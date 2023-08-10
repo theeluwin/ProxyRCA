@@ -1,0 +1,7 @@
+tqdm
+matplotlib
+pandas
+tensorboardX
+pyarrow
+fastparquet
+scipy

@@ -1,0 +1,10 @@
+{
+    "solver": "ProxyRCASolver",
+    "model": {
+        "num_known_item": 0.75
+    },
+    "train": {
+        "epoch": 2,
+        "every": 1
+    }
+}
