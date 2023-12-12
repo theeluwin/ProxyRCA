@@ -1,6 +1,16 @@
 # ProxyRCA
 
-*anonymized implementation for WSDM 2024 submission*
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/proxy-based-item-representation-for-attribute/recommendation-systems-on-amazon-fashion)](https://paperswithcode.com/sota/recommendation-systems-on-amazon-fashion?p=proxy-based-item-representation-for-attribute)
+
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/proxy-based-item-representation-for-attribute/recommendation-systems-on-amazon-men)](https://paperswithcode.com/sota/recommendation-systems-on-amazon-men?p=proxy-based-item-representation-for-attribute)
+
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/proxy-based-item-representation-for-attribute/recommendation-systems-on-amazon-beauty)](https://paperswithcode.com/sota/recommendation-systems-on-amazon-beauty?p=proxy-based-item-representation-for-attribute)
+
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/proxy-based-item-representation-for-attribute/recommendation-systems-on-amazon-games)](https://paperswithcode.com/sota/recommendation-systems-on-amazon-games?p=proxy-based-item-representation-for-attribute)
+
+Implementation of the paper **"Proxy-based Item Representation for Attribute and Context-aware Recommendation"**, accepted in *The 17th ACM International Conference on Web Search and Data Mining* (WSDM 2024) \[[arXiv link](https://arxiv.org/abs/2312.06145)\].
+
+---
 
 * raw dataset directory: `./raw/`
     * put [CARCA/Data](https://github.com/ahmedrashed-ml/CARCA) as `./raw/CARCA/`
