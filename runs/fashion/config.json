@@ -1,4 +1,6 @@
 {
     "dataset": "fashion",
-    "sequence_len": 35
+    "dataloader": {
+        "sequence_len": 35
+    }
 }
